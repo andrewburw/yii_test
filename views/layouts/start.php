@@ -134,7 +134,7 @@ AppAsset::register($this);
     <section id="introblocks">
       <ul class="nospace group btmspace-80">
         <li class="one_third first">
-          <figure><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
+          <figure><a class="imgover" href="#"><img src="images/demo/348x261.jpg" alt=""></a>
             <figcaption>
               <h6 class="heading">Viverra congue</h6>
               <p>Aenean metus purus consectetur ac sagittis in malesuada quis nunc ut sed risus nulla etiam gravida velit.</p>
@@ -142,7 +142,7 @@ AppAsset::register($this);
           </figure>
         </li>
         <li class="one_third">
-          <figure><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
+          <figure><a class="imgover" href="#"><img src="images/demo/348x261.jpg" alt=""></a>
             <figcaption>
               <h6 class="heading">Libero sodales</h6>
               <p>Nec tincidunt maximus ex orci sollicitudin metus ut lacinia ligula nisi vel neque sed non quam eleifend.</p>
@@ -150,7 +150,7 @@ AppAsset::register($this);
           </figure>
         </li>
         <li class="one_third">
-          <figure><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
+          <figure><a class="imgover" href="#"><img src="images/demo/348x261_2.jpg" alt=""></a>
             <figcaption>
               <h6 class="heading">Laoreet tortor</h6>
               <p>Pharetra etiam ut nisi non mi scelerisque consectetur maecenas vel elementum lectus cras maximus finibus.</p>
@@ -203,13 +203,13 @@ AppAsset::register($this);
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/02.png');">
+<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/02.jpg');">
   <section id="splitfifty" class="hoc container clear">
     <div class="sectiontitle">
       <p class="nospace font-xs">Magna ultrices eleifend suspendisse</p>
       <p class="heading underline font-x2">Posuere vivamus semper</p>
     </div>
-    <div class="bgded clear" style="background-image:url('images/demo/backgrounds/03.png');"> 
+    <div class="bgded clear" style="background-image:url('images/demo/backgrounds/03.jpg');"> 
       <!-- ################################################################################################ -->
       <article>
         <h6 class="heading font-x2">Tellus nec mollis sem</h6>
@@ -232,22 +232,22 @@ AppAsset::register($this);
     </div>
     <ul class="nospace group team">
       <li class="one_quarter first">
-        <figure><a class="imgover" href="#"><img src="images/demo/300x300.png" alt=""></a>
+        <figure><a class="imgover" href="#"><img src="images/demo/300x300.jpg" alt=""></a>
           <figcaption><strong>A. Doe</strong> <em>Job Title Here</em></figcaption>
         </figure>
       </li>
       <li class="one_quarter">
-        <figure><a class="imgover" href="#"><img src="images/demo/300x300.png" alt=""></a>
+        <figure><a class="imgover" href="#"><img src="images/demo/300x300.jpg" alt=""></a>
           <figcaption><strong>B. Doe</strong> <em>Job Title Here</em></figcaption>
         </figure>
       </li>
       <li class="one_quarter">
-        <figure><a class="imgover" href="#"><img src="images/demo/300x300.png" alt=""></a>
+        <figure><a class="imgover" href="#"><img src="images/demo/300x300.jpg" alt=""></a>
           <figcaption><strong>C. Doe</strong> <em>Job Title Here</em></figcaption>
         </figure>
       </li>
       <li class="one_quarter">
-        <figure><a class="imgover" href="#"><img src="images/demo/300x300.png" alt=""></a>
+        <figure><a class="imgover" href="#"><img src="images/demo/300x300.jpg" alt=""></a>
           <figcaption><strong>D. Doe</strong> <em>Job Title Here</em></figcaption>
         </figure>
       </li>
@@ -289,7 +289,7 @@ AppAsset::register($this);
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="wrapper bgded" style="background-image:url('images/demo/backgrounds/04.png');">
+<div class="wrapper bgded" style="background-image:url('images/demo/backgrounds/04.jpg');">
   <section id="testimonials" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <div class="one_half overlay">
@@ -373,7 +373,7 @@ AppAsset::register($this);
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="bgded overlay row4" style="background-image:url('images/demo/backgrounds/05.png');">
+<div class="bgded overlay row4" style="background-image:url('images/demo/backgrounds/05.jpg');">
   <footer id="footer" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <div class="center btmspace-50">
