@@ -322,7 +322,7 @@ AppAsset::register($this);
     </div>
     <ul id="latest" class="nospace group">
       <li class="one_third first">
-        <article><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
+        <article><a class="imgover" href="#"><img src="images/demo/348x261_2.jpg" alt=""></a>
           <ul class="nospace meta group">
             <li><i class="fas fa-user"></i> <a href="#">Admin</a></li>
             <li><i class="far fa-clock"></i>
@@ -337,7 +337,7 @@ AppAsset::register($this);
         </article>
       </li>
       <li class="one_third">
-        <article><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
+        <article><a class="imgover" href="#"><img src="images/demo/348x261_2.jpg" alt=""></a>
           <ul class="nospace meta group">
             <li><i class="fas fa-user"></i> <a href="#">Admin</a></li>
             <li><i class="far fa-clock"></i>
@@ -352,7 +352,7 @@ AppAsset::register($this);
         </article>
       </li>
       <li class="one_third">
-        <article><a class="imgover" href="#"><img src="images/demo/348x261.png" alt=""></a>
+        <article><a class="imgover" href="#"><img src="images/demo/348x261_2.jpg" alt=""></a>
           <ul class="nospace meta group">
             <li><i class="fas fa-user"></i> <a href="#">Admin</a></li>
             <li><i class="far fa-clock"></i>
